@@ -1,0 +1,16 @@
+
+Name of QuantLet: CGBRP_Arbitrage_Free_NS_Model
+
+Published in: Global Bond Risk Premia
+
+Description: 'Estimate the arbitrage free Nelson Siegel model'
+
+Keywords: 'arbitrage free, Nelson Siegel model, MCMC, bayesian estimation, var'
+
+Author: Ya Qian and Chen Zhang 
+
+Submitted: Ya Qian
+
+Datafile: 'Yields.xls'
+
+Output: 'Coefficients in arbitrage free Nelson Siegel model'

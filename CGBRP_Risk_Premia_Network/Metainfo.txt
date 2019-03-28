@@ -1,0 +1,16 @@
+
+Name of QuantLet: CGBRP_Risk_Premia_Network
+
+Published in: Global Bond Risk Premia
+
+Description: 'Build dynamic network model for risk premia'
+
+Keywords: 'dynamic, network, risk premia, full sample, rolling window'
+
+Author: Ya Qian and Chen Zhang 
+
+Submitted: Ya Qian
+
+Datafile: 'risk.mat'
+
+Output: 'Network of bond risk premia'
